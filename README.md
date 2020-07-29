@@ -26,7 +26,7 @@ Limitations and considerations:
 ----
 ### https://ts.la/hxda94328
 
-* 推荐链接的使用方法及好处
+推荐链接的使用方法及好处
 ----
 
 当购买特斯拉Cybertruck, Model 3, Model Y, Model S, or Model X 等车款时，使用上面推荐码，你将获得如下好处：
